@@ -3,7 +3,7 @@
 
 	$u = htmlspecialchars($_POST['user'], ENT_QUOTES);
 	$p = htmlspecialchars($_POST['pass'], ENT_QUOTES);
-	require_once("db_init.php");
+	require_once("../Db_init.php");
 ?>
 
 <HTML>

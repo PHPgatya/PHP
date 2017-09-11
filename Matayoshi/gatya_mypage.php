@@ -14,7 +14,7 @@ if (isset($_SESSION['us']) && $_SESSION['us'] != null){
 ?>
 <P STYLE='color: red'>ガチャガチャ</P>
 <P><A HREF='gatya_roll1.php'>単発ガチャ！</A><BR>
-<P><A HREF='gatya_roll1.php'>10連ガチャ！</A><BR>
+<P><A HREF='gatya_roll10.php'>10連ガチャ！</A><BR>
 <A HREF='gatya_box.php'>ボックス</A></P>
 
 <A HREF='gatya_logoff.php'>ログオフ</A></P>
